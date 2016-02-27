@@ -1,0 +1,32 @@
+
+
+div{
+	margin: auto;
+	margin: auto;
+	width: 800px;
+	border-style: groove;
+	text-align: justify;
+	background-color: #f4fff8;
+}
+
+img{
+	width: 150px;
+	height: 170px;
+	border-radius: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    height: 150px;
+}
+
+th,h1,h4,h2,p,td,li{
+	color: #2e3130;
+}
